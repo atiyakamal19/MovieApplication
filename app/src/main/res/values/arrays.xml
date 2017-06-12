@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="version_descriptions">
+        <item>@string/description_1</item>
+        <item>@string/description_2</item>
+        <item>@string/description_3</item>
+    </string-array>
+    <integer-array name="img_id_arr">
+        <item>@drawable/main</item>
+        <item>@drawable/sample</item>
+        <item>@drawable/sample2</item>
+    </integer-array>
+</resources>
